@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/931875604973068958/16ff5dad6eb1448db65e88e70c80af23/artifacts
+end_time: 1738427146733
+entry_point_name: ''
+experiment_id: '931875604973068958'
+lifecycle_stage: active
+run_id: 16ff5dad6eb1448db65e88e70c80af23
+run_name: suave-carp-310
+run_uuid: 16ff5dad6eb1448db65e88e70c80af23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738427138448
+status: 3
+tags: []
+user_id: Tough

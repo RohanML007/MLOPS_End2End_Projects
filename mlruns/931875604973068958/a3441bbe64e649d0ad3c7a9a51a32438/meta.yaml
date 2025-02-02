@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/931875604973068958/a3441bbe64e649d0ad3c7a9a51a32438/artifacts
+end_time: 1738468987264
+entry_point_name: ''
+experiment_id: '931875604973068958'
+lifecycle_stage: active
+run_id: a3441bbe64e649d0ad3c7a9a51a32438
+run_name: gifted-snail-352
+run_uuid: a3441bbe64e649d0ad3c7a9a51a32438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738468976878
+status: 3
+tags: []
+user_id: Tough

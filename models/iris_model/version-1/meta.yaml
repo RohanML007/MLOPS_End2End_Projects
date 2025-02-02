@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738424770578
+current_stage: None
+description: null
+last_updated_timestamp: 1738424770578
+name: iris_model
+run_id: 073d4bc4b1ec496691ec4db2099e4e59
+run_link: null
+source: file:///C:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/MlFlow_Starter/410372016129441185/073d4bc4b1ec496691ec4db2099e4e59/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/MlFlow_Starter/410372016129441185/073d4bc4b1ec496691ec4db2099e4e59/artifacts/iris_model
+user_id: null
+version: 1

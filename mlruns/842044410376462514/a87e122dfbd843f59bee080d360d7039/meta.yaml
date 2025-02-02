@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842044410376462514/a87e122dfbd843f59bee080d360d7039/artifacts
+end_time: 1738248950347
+entry_point_name: ''
+experiment_id: '842044410376462514'
+lifecycle_stage: active
+run_id: a87e122dfbd843f59bee080d360d7039
+run_name: agreeable-kit-522
+run_uuid: a87e122dfbd843f59bee080d360d7039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738248950208
+status: 3
+tags: []
+user_id: Tough

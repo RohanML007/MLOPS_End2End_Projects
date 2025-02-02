@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842044410376462514/8d710ad4d4164a77a9e4a762488ac5cd/artifacts
+end_time: 1738254675601
+entry_point_name: ''
+experiment_id: '842044410376462514'
+lifecycle_stage: active
+run_id: 8d710ad4d4164a77a9e4a762488ac5cd
+run_name: glamorous-fawn-410
+run_uuid: 8d710ad4d4164a77a9e4a762488ac5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738254675139
+status: 3
+tags: []
+user_id: Tough

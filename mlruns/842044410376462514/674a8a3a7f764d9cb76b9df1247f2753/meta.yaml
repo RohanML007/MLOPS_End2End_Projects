@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/842044410376462514/674a8a3a7f764d9cb76b9df1247f2753/artifacts
+end_time: 1738250113956
+entry_point_name: ''
+experiment_id: '842044410376462514'
+lifecycle_stage: active
+run_id: 674a8a3a7f764d9cb76b9df1247f2753
+run_name: victorious-sheep-562
+run_uuid: 674a8a3a7f764d9cb76b9df1247f2753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738250113541
+status: 3
+tags: []
+user_id: Tough

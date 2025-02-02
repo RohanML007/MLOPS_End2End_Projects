@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/931875604973068958/37ee2fc9c79e4dc193ba9a2798e163bb/artifacts
+end_time: 1738308866609
+entry_point_name: ''
+experiment_id: '931875604973068958'
+lifecycle_stage: active
+run_id: 37ee2fc9c79e4dc193ba9a2798e163bb
+run_name: popular-lamb-524
+run_uuid: 37ee2fc9c79e4dc193ba9a2798e163bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738308866441
+status: 4
+tags: []
+user_id: Tough

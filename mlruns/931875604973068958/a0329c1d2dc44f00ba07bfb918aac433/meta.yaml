@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/931875604973068958/a0329c1d2dc44f00ba07bfb918aac433/artifacts
+end_time: 1738417976376
+entry_point_name: ''
+experiment_id: '931875604973068958'
+lifecycle_stage: active
+run_id: a0329c1d2dc44f00ba07bfb918aac433
+run_name: unique-sponge-449
+run_uuid: a0329c1d2dc44f00ba07bfb918aac433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738417960301
+status: 3
+tags: []
+user_id: Tough

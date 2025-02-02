@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/931875604973068958/7ea4480e37a146f094b16c6c128bef6d/artifacts
+end_time: 1738472983639
+entry_point_name: ''
+experiment_id: '931875604973068958'
+lifecycle_stage: active
+run_id: 7ea4480e37a146f094b16c6c128bef6d
+run_name: whimsical-moth-382
+run_uuid: 7ea4480e37a146f094b16c6c128bef6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738472975894
+status: 3
+tags: []
+user_id: Tough
