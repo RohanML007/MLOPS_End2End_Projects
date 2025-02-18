@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738921316343
+current_stage: None
+description: ''
+last_updated_timestamp: 1738921316343
+name: Final_Wine_Quality_Model
+run_id: b7e32d28fba04c91899c6db16fa65e74
+run_link: ''
+source: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/b7e32d28fba04c91899c6db16fa65e74/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/b7e32d28fba04c91899c6db16fa65e74/artifacts/model
+user_id: null
+version: 1

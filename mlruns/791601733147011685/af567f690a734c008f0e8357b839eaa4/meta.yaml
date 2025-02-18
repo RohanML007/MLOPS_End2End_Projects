@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/af567f690a734c008f0e8357b839eaa4/artifacts
+end_time: 1738920881017
+entry_point_name: ''
+experiment_id: '791601733147011685'
+lifecycle_stage: active
+run_id: af567f690a734c008f0e8357b839eaa4
+run_name: rare-robin-305
+run_uuid: af567f690a734c008f0e8357b839eaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920878470
+status: 4
+tags: []
+user_id: Tough

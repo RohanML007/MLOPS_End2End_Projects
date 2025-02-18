@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/cf3d62defd0a44a28457a4659bf62b56/artifacts
+end_time: 1738920951862
+entry_point_name: ''
+experiment_id: '791601733147011685'
+lifecycle_stage: active
+run_id: cf3d62defd0a44a28457a4659bf62b56
+run_name: stately-lynx-22
+run_uuid: cf3d62defd0a44a28457a4659bf62b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920940768
+status: 3
+tags: []
+user_id: Tough

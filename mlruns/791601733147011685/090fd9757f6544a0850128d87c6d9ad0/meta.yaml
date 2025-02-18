@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/090fd9757f6544a0850128d87c6d9ad0/artifacts
+end_time: 1738920845600
+entry_point_name: ''
+experiment_id: '791601733147011685'
+lifecycle_stage: active
+run_id: 090fd9757f6544a0850128d87c6d9ad0
+run_name: adaptable-bird-563
+run_uuid: 090fd9757f6544a0850128d87c6d9ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920845406
+status: 4
+tags: []
+user_id: Tough

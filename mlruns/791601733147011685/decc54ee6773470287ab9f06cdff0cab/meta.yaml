@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/decc54ee6773470287ab9f06cdff0cab/artifacts
+end_time: 1738920980285
+entry_point_name: ''
+experiment_id: '791601733147011685'
+lifecycle_stage: active
+run_id: decc54ee6773470287ab9f06cdff0cab
+run_name: silent-mouse-119
+run_uuid: decc54ee6773470287ab9f06cdff0cab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920962202
+status: 3
+tags: []
+user_id: Tough

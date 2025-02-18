@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/2ed57ef83d2349f698997682029a062a/artifacts
+end_time: 1738920940728
+entry_point_name: ''
+experiment_id: '791601733147011685'
+lifecycle_stage: active
+run_id: 2ed57ef83d2349f698997682029a062a
+run_name: popular-smelt-820
+run_uuid: 2ed57ef83d2349f698997682029a062a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920924091
+status: 3
+tags: []
+user_id: Tough

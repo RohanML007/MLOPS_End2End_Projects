@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tough/OneDrive/Desktop/Tough/MLOPS/ML_Flow/My_Class_Workings/3.%20DLMLflow/mlruns/791601733147011685/f34068c1f9494f8ab120706180258bfd/artifacts
+end_time: 1738920962170
+entry_point_name: ''
+experiment_id: '791601733147011685'
+lifecycle_stage: active
+run_id: f34068c1f9494f8ab120706180258bfd
+run_name: youthful-mole-575
+run_uuid: f34068c1f9494f8ab120706180258bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920951893
+status: 3
+tags: []
+user_id: Tough
