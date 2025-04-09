@@ -58,3 +58,5 @@ dvc stage add -n train \
 dvc stage add -n evaluate \
     -d src/evaluate.py -d models/model.pkl -d data/raw/data.csv \
     python src/evaluate.py
+    
+**The "dvc stage add" command is used to define stages in the machine learning or data pipelines. These stages represent steps like data preprocessing, model training & evaluation.** 
