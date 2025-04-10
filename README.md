@@ -62,3 +62,6 @@ dvc stage add -n evaluate \
 **The "dvc stage add" command is used to define stages in the machine learning or data pipelines. These stages represent steps like data preprocessing, model training & evaluation.** 
 
 Once the above commands have been executed, we run the **"dvc repro"** command in order to run the entire pipeline of Preprocessing--> Training--> Evaluation.
+
+
+![image](https://github.com/user-attachments/assets/1a05a390-d522-4bef-a325-135b4375276d)
